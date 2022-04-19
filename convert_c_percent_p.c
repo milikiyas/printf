@@ -1,6 +1,6 @@
 /*
  * File: convert_c_percent_p.c
- * Auth: Abirham Yazie
+ * Auth: Abirham Yazie and milikiyas wosenseged
  */
 
 #include "main.h"
