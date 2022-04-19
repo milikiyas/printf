@@ -1,7 +1,7 @@
 /*
  * File: convert_hex.c
  * Auth: Abirham Yazie
- *       Milkiyas Luelseged
+ *       Milkiyas wosenseged
  */
 
 #include "main.h"
