@@ -1,7 +1,7 @@
 /*
  * File: _printf.c
  * Auth: Abirham Yzie
- *       Milikiyas Luelseged
+ *       Milikiyas wosenseged
  */
 
 #include "main.h"
