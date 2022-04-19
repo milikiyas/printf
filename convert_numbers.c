@@ -1,7 +1,7 @@
 /*
  * File: convert_numbers.c
  * Auth: Abirham Yazie
- *       Milikiyas Luelseged
+ *       Milikiyas wosenseged
  */
 
 #include "main.h"
